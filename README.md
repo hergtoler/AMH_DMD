@@ -9,6 +9,8 @@ Once upon a time, I started a project to add color to the DMD animations in Spoo
 <BR><BR>
 Maybe someone will be motivated to pick up the torch and continue with the coloring.  If so, please let me know, <a href="https://pinside.com/pinball/community/pinsiders/herg">PM herg at Pinside</a>.
 <BR><BR>
+Ben Heck was kind enough to provide all the source files, and they are included here.
+<BR><BR>
 <h2>SD card files for users with one of the Chroma-Color LCD displays I built</h2>
 <a href="http://ledocd.com/files/AMH_SD_CHROMA_INDEX_20220410.zip">Download indexed SD update files</a>
 <BR>
